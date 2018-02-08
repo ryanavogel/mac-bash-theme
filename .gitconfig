@@ -1,0 +1,6 @@
+[color]
+	ui = true
+[color "status"]
+	added = green
+	changed = red
+	untracked = red
